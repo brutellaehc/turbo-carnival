@@ -1,4 +1,4 @@
-# miniature
+# turbo-carnival
 cli で使えるtodoアプリ。デイリータスクとやりきりのタスクを別の一覧で管理することができる。
 
 # 使用方法
