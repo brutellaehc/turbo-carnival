@@ -1,10 +1,10 @@
-# tl;dr
+# supeme
 cli で使えるtodoアプリ。デイリータスクとやりきりのタスクを別の一覧で管理することができる。
 
 # 使用方法
 ```
 // インストール
-$ npm install -g great-todo-cli
+$ npm install -g great-supeme
 // todo を追加 (todo content は半角で記述してください)
 $ todo add
 // すべてのtodoをtodo category 別に表示
@@ -15,13 +15,13 @@ $ todo done <taskId>
 $ todo delete <taskId>
 ```
 
-![todo add1](https://github.com/kyu08/todo-cli/blob/images/todo-cli1.png?raw=true)
+![todo add1](https://github.com/kyu08/supeme/blob/images/supeme1.png?raw=true)
 
-![todo add2](https://github.com/kyu08/todo-cli/blob/images/todo-cli2.png?raw=true)
+![todo add2](https://github.com/kyu08/supeme/blob/images/supeme2.png?raw=true)
 
-![todo add3](https://github.com/kyu08/todo-cli/blob/images/todo-cli3.png?raw=true)
+![todo add3](https://github.com/kyu08/supeme/blob/images/supeme3.png?raw=true)
 
-![todo add show](https://github.com/kyu08/todo-cli/blob/images/todo-cli4.png?raw=true)
+![todo add show](https://github.com/kyu08/supeme/blob/images/supeme4.png?raw=true)
 
 # 機能
 - todo を表示する
